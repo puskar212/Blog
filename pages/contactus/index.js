@@ -74,7 +74,7 @@ const ContactUs = () => {
               Adress
           </span>
           <span>
-              aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+              aaaaaaaaaaaaaa
           </span>
       </div>
       <div>
